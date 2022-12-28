@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Democratic Senator Warnock jumps to early lead in Georgia runoff",
+      "description": "Democratic Senator Raphael Warnock jumped to an early lead over Republican former football star Herschel Walker in a runoff election in Georgia that will determine whether Democrats can expand their razor-thin Senate majority.",
+      "url": "https://www.reuters.com/world/us/democrat-warnock-hopes-boost-partys-us-senate-margin-georgia-runoff-2022-12-06/",
+      "urlToImage": "https://www.reuters.com/resizer/yrFA1D9h9AocLDlt-J-2mgnjKzo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JYKVERVGXROOXLPP7XLBAHKP5M.jpg",
+      "publishedAt": "2022-12-07T00:46:01Z",
+      "content": "ATLANTA, Dec 6 (Reuters) - Democratic Senator Raphael Warnock jumped to an early lead over Republican former football star Herschel Walker in a runoff election in Georgia that will determine whether … [+4790 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Polls close in Georgia run-off vote to decide final U.S. Senate seat | CBC News",
+      "description": "Polls began to close Tuesday night in the final U.S. Senate contest, as Georgia voters await a winner in the run-off election between Democratic Sen. Raphael Warnock and Republican football legend Herschel Walker.",
+      "url": "http://www.cbc.ca/news/world/georgia-election-runoff-warnock-walker-1.6676485",
+      "urlToImage": "https://i.cbc.ca/1.6647779.1670335330!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/raphael-warnock-herschel-walker-composite.jpg",
+      "publishedAt": "2022-12-07T00:37:22.7833242Z",
+      "content": "Polls began to close Tuesday night in the final U.S. Senate contest, as Georgia voters await a winner in the run-off election between Democratic Sen. Raphael Warnock and Republican football legend He… [+3878 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Emily Shapiro",
+      "title": "3 slain UVA football players honored with posthumous degrees",
+      "description": "Devin Chandler, Lavel Davis Jr. and D'Sean Perry were shot while on a bus.",
+      "url": "https://abcnews.go.com/US/3-slain-uva-football-players-honored-posthumous-degrees/story?id=94596235",
+      "urlToImage": "https://s.abcnews.com/images/US/uva-victims-main-ht-jt-221115_1668543195624_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-12-06T22:06:00Z",
+      "content": "Three University of Virginia football players killed in a mass shooting on the Charlottesville campus have been honored with posthumous degrees from the university.\r\nDevin Chandler, Lavel Davis Jr. a… [+1726 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Faras Ghani",
+      "title": "How Morocco’s Atlas Lions roared into World Cup quarter-finals",
+      "description": "Moroccan fans celebrate at Education City Stadium after their team rewrote its footballing history on Tuesday.",
+      "url": "http://www.aljazeera.com/sports/2022/12/6/how-moroccos-atlas-lions-roared-into-world-cup-quarter-finals",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/SSS14190_1.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-12-06T20:06:03Z",
+      "content": "Doha, Qatar The anticipation built up as Achraf Hakimi stepped forward to take a penalty that could rewrite Moroccos footballing history.\r\nThe teams were inseparable after 120 minutes. As Hakimi got … [+3204 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Bryan Fischer",
+      "title": "College football bowl games: Every contest ranked, from best to worst",
+      "description": "College football bowl season is here, and it's a lot to navigate! We're here to help, ranking every game from best to worst.",
+      "url": "http://www.foxsports.com/stories/college-football/ranking-every-college-football-bowl-game",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.05.22_Ranking-the-Bowl-Games_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-06T15:18:14Z",
+      "content": "With all due respect to a few beloved holidays on the calendar this month, the most wonderful time of the year is upon us: college football bowl season.\r\nSure, some may decry that there are too many … [+23669 chars]"
+    },
+    {
+      "source": { "id": "gruenderszene", "name": "Gruenderszene" },
+      "author": null,
+      "title": "Sensoren, KI und Metaverse: 8 deutsche Startups, die den Fußball digitalisieren",
+      "description": "Die DFL will Fußball digitaler machen. Deutsche Startups wie Onefootball oder Kinexon arbeiten schon länger daran.",
+      "url": "https://www.businessinsider.de/gruenderszene/business/ki-und-metaverse-acht-deutsche-startups-die-den-fussball-digitalisieren-b/",
+      "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2022/07/shutterstock_1464868235.jpg?ver=1657635709",
+      "publishedAt": "2022-12-06T07:00:00+00:00",
+      "content": "Sensoren, KI und Metaverse: 8 deutsche Startups, die den Fußball digitalisieren\r\nDie DFL will Fußball digitaler machen. Deutsche Startups wie Onefootball oder Kinexon arbeiten mit ihren Produkten sch… [+1024 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Adam RittenbergESPN Senior Writer ",
+      "title": "College football bowl picks - Predicting the score of every game",
+      "description": "The bowl games have just been announced, but let's not have that stop us from predicting the final score of every matchup. Check back to see how we fared.",
+      "url": "http://espn.go.com/college-football/insider/story/_/id/35182068/college-football-bowl-picks-predicting-score-every-game",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0101%2Fr956727_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-12-05T03:10:00Z",
+      "content": "The idea of picking all the bowl matchups immediately after they're set is equal parts fun and chaotic. Kind of like the college football season.\r\nBut we'll do it here -- all 43 games -- from the Hom… [+32012 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Anne Vidalie",
+      "title": "Dans le Far West des NFT, les histoires de gros sous du foot virtuel",
+      "description": "Cartes de footballeurs à collectionner, tournois en ligne, trophées et maillots dématérialisés, vidéos de buts mythiques... Le monde du ballon rond découvre, comme le monde de l’art, les joies et les tristesses des NFT.",
+      "url": "https://www.lemonde.fr/economie/article/2022/11/29/dans-le-far-west-des-nft-les-histoires-de-gros-sous-du-foot-virtuel_6152086_3234.html",
+      "urlToImage": "https://img.lemde.fr/2022/11/25/90/0/1890/1260/1440/960/60/0/15fb907_1669390927574-le-monde-foot-nft2.jpg",
+      "publishedAt": "2022-11-29T05:15:04Z",
+      "content": "Quand il était enfant, Cyril collectionnait les vignettes Panini, ces images de joueurs de foot échangées dans les cours de récré. « Jaimais les regarder, les toucher, tourner les pages des albums da… [+2506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
